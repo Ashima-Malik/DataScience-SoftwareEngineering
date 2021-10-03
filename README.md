@@ -1,2 +1,5 @@
-# Mathematical-Concepts-for-Data-Science
+# Data-Science-Machine Learning
+
+Python 
 Statistics, Probability, and Linear Algebra
+Machine Learning
