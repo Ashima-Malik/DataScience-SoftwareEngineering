@@ -1,5 +1,3 @@
-# Data-Science-Machine Learning
+# HTML-CSS
 
-Python 
-Statistics, Probability, and Linear Algebra
-Machine Learning
+
