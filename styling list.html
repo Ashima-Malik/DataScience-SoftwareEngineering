@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>styling list</title>
+    <style media="screen">
+      ul.list1{
+        list-style:square;
+        /* list-style-image: url(css/tree.jpeg) */
+      }
+      ul.list2{
+        list-style:none;
+        padding:0;
+        margin:0;
+      }
+      ul.list2 li{
+        background-image:url(css/tree.jpeg);
+        background-repeat: no-repeat;
+        background-position:0px center;
+        padding-left:30px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <p> A list of Cities:
+    <ul class = "list1">
+      <li> Paris</li>
+      <li>London</li>
+      <li>Delhi</li>
+      
+    </ul>
+  </p>
+  <p> A list of Cities:
+    <ul class = "list2">
+      <li>Paris</li>
+      <li>London</li>
+      <li>Delhi</li>
+    </ul>
+  </p>
+    
+  </body>
+</html>
