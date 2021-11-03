@@ -11,3 +11,6 @@ def is_rectangle(A,B,C,D):
     return False
 
 print(is_rectangle(1,2,3,4))
+
+
+
